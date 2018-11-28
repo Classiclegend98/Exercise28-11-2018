@@ -1,0 +1,71 @@
+body{
+  background-color: #b5a789;
+  font-family:      Georgia, "Times New Roman",Times, serif;
+  font-size:        small;
+  margin:           0px;
+}
+h1{
+  font-size:        120%;
+  color:            #954b4b;
+}
+.header{
+  background-color: #675c47;
+  margin:           10px 10px 0 10px;
+  height:           108px;
+  float: none;
+}
+#slogan{
+  float: right;
+  font-size: 20px;
+  color: #FFEBCD;
+  padding-right: 20px;
+  font-family: Atma;
+}
+.drinks{
+  background-color: #FFEBCD;
+  float: left;
+  text-align: left;
+  width: 15%;
+  line-height: 1.6em;
+  margin: 10px 0 0 10px;
+  height: 500px;
+  padding: 15px 15px 15px 15px;
+  font-size: 90%;
+
+}
+.main{
+  background-color: #FFEBCD;
+  float: none;
+  width: 55%;
+  height: 500px;
+  padding: 15px;
+  margin: auto;
+  margin: 10px 15px 15px 19%;
+  font-size: 90%;
+
+}
+.order_online{
+  background-color: #FFEBCD;
+  float: right;
+  left: 10px;
+  margin-top: -545px;
+  font-size: 90%;
+  padding: 15px 15px 15px 15px;
+  width: 275px;
+  top: 3px;
+  height: 355px;
+}
+#order_online_slogan{
+  text-align: center;
+  line-height: 1.6em;
+  font-size:        120%;
+  color:            #954b4b;
+}
+.footer{
+  background-color: #675c47;
+  color:            #efe5d0;
+  text-align:       center;
+  padding:          15px;
+  margin:           0, 10px 10px 10px;
+  font-size:        90%;
+}
